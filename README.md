@@ -3,7 +3,7 @@
 This repository contains the anonymized code associated with the paper:
 
 **Concept Removal for Frontier Image Generative Models**  
-*Anonymous submission — double blind review*  
+*Accepted at ICML 2026*  
 
 ---
 
