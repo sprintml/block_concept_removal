@@ -1,6 +1,6 @@
 # Concept Removal for Frontier Image Generative Models
 
-This repository contains the anonymized code associated with the paper:
+This repository contains the code associated with the paper:
 
 **Concept Removal for Frontier Image Generative Models**  
 *Accepted at ICML 2026*  
